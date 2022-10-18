@@ -11,4 +11,4 @@
 ![제슨나노2gb](https://user-images.githubusercontent.com/92077615/196316580-70196b49-9d94-448b-a90d-ea7c82841e6e.jpg)
 
 
-<b> 잭팩 4.6.1
+<b> 잭팩 4.6.1  https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit
