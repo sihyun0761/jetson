@@ -12,3 +12,5 @@
 
 
 <b> 잭팩 4.6.1 Downloads 하는 곳  https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit
+<b> 제슨 알아보고 설치하기
+  https://developer.nvidia.com/embedded/learn/jetson-nano-2gb-devkit-user-guide#id-.JetsonNano2GBDeveloperKitUserGuidevbatuu_v1.0-DeveloperKitSetup
