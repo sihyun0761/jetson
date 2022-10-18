@@ -15,6 +15,7 @@
 <b>      - 그외 쿨링펜, lcd모니터, hdmi 
   
 <b> 2. jetson nano 구조
+  
 ![제슨나노2gb](https://user-images.githubusercontent.com/92077615/196316580-70196b49-9d94-448b-a90d-ea7c82841e6e.jpg)
 
 <b> jetpack downloads 
