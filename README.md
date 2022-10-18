@@ -1,6 +1,6 @@
-# jetson nano 인공지능 기초과정
+# Getting Started with AI on Jetson Nano
 
-# 1. 준비물
+# 1. Jetson Nano Setting 준비물
 ## - jetson nano 2gb
 ## - c type power adapter
 ## -  와이파이 동글
