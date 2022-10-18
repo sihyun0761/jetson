@@ -1,4 +1,5 @@
 # jetson nano 인공지능 기초과정
+<br>
 # 1. 준비물
 ## - jetson nano 2gb
 ## - c type power adapter
