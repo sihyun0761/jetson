@@ -2,7 +2,7 @@
 
 <b> 1. Jetson Nano Setting 준비물
   
-    <b>      - jetson nano 2gb
+        - jetson nano 2gb
   
 <b>      - c type power adapter
   
