@@ -1,7 +1,7 @@
 <b> Getting Started with AI on Jetson Nano
 
 <b> 1. Jetson Nano Setting 준비물
-<b>   - jetson nano 2gb
+##   - jetson nano 2gb
 <b>   - c type power adapter
 <b>   - 와이파이 동글
 <b>   - 웹캠(USB Camera), 또는 CSI Camera (라즈베리파이 V2)
