@@ -4,7 +4,7 @@
   
         - jetson nano 2gb
   
-<b>      - c type power adapter
+        - c type power adapter
   
 <b>      - 와이파이 동글
   
