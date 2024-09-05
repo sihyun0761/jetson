@@ -18,7 +18,8 @@
   
 <b> 2. jetson nano 구조
   
-![제슨나노2gb](https://user-images.githubusercontent.com/92077615/196316580-70196b49-9d94-448b-a90d-ea7c82841e6e.jpg)
+!https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-RX-02+V2&unit=block-v1:DLI+S-RX-02+V2+type@vertical+block@aba5104413ae454c8c63a6f301925337
+
 
 <b> 3. jetpack downloads 
   
