@@ -15,9 +15,11 @@
   
         - 그외 쿨링펜, lcd, 또는 모니터. hdmi
 ```
-  
-<b> 2. jetson nano에 대하여
-  
+ 
+ ```
+2. jetson nano에 대하여
+```
+<b>  
        !https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-RX-02+V2&unit=block-v1:DLI+S-RX-02+V2+type@vertical+block@aba5104413ae454c8c63a6f301925337
 
 <b> 3. jetpack downloads 
