@@ -1,23 +1,23 @@
 # Jetson Nano
 ***
 ```
- 1. Jetson Nano Setting 준비물
+**Jetson Nano Setting 준비물**
 
 
         - jetson nano 4gb
-![download](https://github.com/user-attachments/assets/627db6ee-f196-47ea-a2ac-63daadef75df)
-
-
-
-
+  ![download](https://github.com/user-attachments/assets/627db6ee-f196-47ea-a2ac-63daadef75df)
         - c type power adapter
-  
+  ![download](https://github.com/user-attachments/assets/633b5186-e925-40a0-9d94-effa8aa1e32c)
+
         - 와이파이 동글
-  
+  ![download](https://github.com/user-attachments/assets/64725752-622d-4c50-a9dc-3d2bb5b0ac12)
+
         - 웹캠(USB Camera), 또는 CSI Camera (라즈베리파이 V2)
-  
+  ![download](https://github.com/user-attachments/assets/bab07b07-4cfa-40df-8c01-ca99b5d97904)
+
         - 64기가 이상 마이크로sd카드
-  
+  ![download](https://github.com/user-attachments/assets/1e9b401b-f35d-4f12-a0f8-a7ab7f46a398)
+
         - 그외 쿨링펜, lcd, 또는 모니터. hdmi
 ```
  
@@ -54,9 +54,12 @@ sudo sh -c 'echo 128 > /sys/devices/pwm-fan/target_pwm'
 
 ### 카메라
 ***
-제슨나노가 카메라를 인식하는 명령어
+카메라를 인식하고 실행하자.
 ```
 ~$  ls /dev/vi*
+~$ git clone https://github.com/jetsonhacks/USB-Camera.git
+~$ cd USB-Camera
+python3 usb-camera-gst.py
 ```
 
 
