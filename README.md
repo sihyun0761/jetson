@@ -5,7 +5,8 @@
 
 
         - jetson nano 4gb
-![download](https://github.com/user-attachments/assets/9366b182-25ab-4aac-88c7-de8ebddbd803)
+![download](https://github.com/user-attachments/assets/627db6ee-f196-47ea-a2ac-63daadef75df)
+
 
 
 
