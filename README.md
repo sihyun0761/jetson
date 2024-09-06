@@ -1,9 +1,9 @@
 # Jetson Nano
 ***
-```
+
 **Jetson Nano Setting 준비물**
 
-
+```
         - jetson nano 4gb
 ![jetson](https://github.com/user-attachments/assets/69e93ee1-1017-4162-a00d-23cf0098ccc4)
 
