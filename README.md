@@ -1,11 +1,11 @@
-![download](https://github.com/user-attachments/assets/b4b8b465-2fd9-40a4-b255-639ae95755a8)# Jetson Nano
+# Jetson Nano
 ***
 ```
  1. Jetson Nano Setting 준비물
 
 
         - jetson nano 4gb
-![download](https://github.com/user-attachments/assets/707a2c15-f4ee-40ae-9dbf-5c9c5a17baa4)
+![download](https://github.com/user-attachments/assets/b4b8b465-2fd9-40a4-b255-639ae95755a8)
 
 
         - c type power adapter
