@@ -5,20 +5,20 @@
 
 
         - jetson nano 4gb
- ![jetson](https://github.com/user-attachments/assets/a83ebf48-0b8d-4afa-ba29-723f7caf0fcd)
+![jetson](https://github.com/user-attachments/assets/69e93ee1-1017-4162-a00d-23cf0098ccc4)
 
 
         - c type power adapter
-  ![download](https://github.com/user-attachments/assets/633b5186-e925-40a0-9d94-effa8aa1e32c)
+![download](https://github.com/user-attachments/assets/633b5186-e925-40a0-9d94-effa8aa1e32c)
 
         - 와이파이 동글
-  ![download](https://github.com/user-attachments/assets/64725752-622d-4c50-a9dc-3d2bb5b0ac12)
+![download](https://github.com/user-attachments/assets/64725752-622d-4c50-a9dc-3d2bb5b0ac12)
 
         - 웹캠(USB Camera), 또는 CSI Camera (라즈베리파이 V2)
-  ![download](https://github.com/user-attachments/assets/bab07b07-4cfa-40df-8c01-ca99b5d97904)
+![download](https://github.com/user-attachments/assets/bab07b07-4cfa-40df-8c01-ca99b5d97904)
 
         - 64기가 이상 마이크로sd카드
-  ![download](https://github.com/user-attachments/assets/1e9b401b-f35d-4f12-a0f8-a7ab7f46a398)
+![download](https://github.com/user-attachments/assets/1e9b401b-f35d-4f12-a0f8-a7ab7f46a398)
 
         - 그외 쿨링펜, lcd, 또는 모니터. hdmi
 ```
