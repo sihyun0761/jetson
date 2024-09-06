@@ -51,7 +51,7 @@ sudo sh -c 'echo 128 > /sys/devices/pwm-fan/target_pwm'
 ### 카메라
 ***
 제슨나노가 카메라를 인식하는 명령어
-    ~$  ls /dev/vi*
+     ~$  ls /dev/vi*
 
 
 
