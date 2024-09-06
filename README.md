@@ -25,7 +25,7 @@
 sd card formatter  download
 balenaetcher download --->  이미지 굽기
 제슨나노에 sd넣고 우분투 설치
-     ```  
+```  
 
 ### 온도 확인과 쿨링팬
 ***
