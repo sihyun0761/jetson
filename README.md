@@ -1,10 +1,12 @@
-# Jetson Nano
+![download](https://github.com/user-attachments/assets/b4b8b465-2fd9-40a4-b255-639ae95755a8)# Jetson Nano
 ***
 ```
  1. Jetson Nano Setting 준비물
 
 
         - jetson nano 4gb
+![download](https://github.com/user-attachments/assets/707a2c15-f4ee-40ae-9dbf-5c9c5a17baa4)
+
 
         - c type power adapter
   
@@ -51,8 +53,9 @@ sudo sh -c 'echo 128 > /sys/devices/pwm-fan/target_pwm'
 ### 카메라
 ***
 제슨나노가 카메라를 인식하는 명령어
-     ~$  ls /dev/vi*
-
+```
+~$  ls /dev/vi*
+```
 
 
 
