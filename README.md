@@ -1,10 +1,10 @@
 <b> Getting Started with AI on Jetson Nano
-
+***
 ```
  1. Jetson Nano Setting 준비물
   
         - jetson nano 4gb
-  https://img.danawa.com/prod_img/500000/712/458/img/17458712_1.jpg?_v=20220714110623
+  
         - c type power adapter
   
         - 와이파이 동글
