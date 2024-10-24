@@ -78,12 +78,10 @@ sudo sh -c 'echo 128 > /sys/devices/pwm-fan/target_pwm'
 ### 카메라
 ***
 카메라를 인식하고 실행하자.
-```
-~$  ls /dev/vi*
-~$ git clone https://github.com/jetsonhacks/USB-Camera.git
-~$ cd USB-Camera
-python3 usb-camera-gst.py
-```
+일단 먼저
+제슨이 카메라를 인식하는지 확인하자.
+
+    dli@dli-desktop:~$ ls /dev/vi*
 
 
 
