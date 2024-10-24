@@ -6,7 +6,7 @@
  -  http://sd-memory-card-formatter.en.softonic.com/download balena Etcher로 이미지를 굽기 위한 준비
   
  - --balena Etcher 프로그램 다운로드
-
+***
 
 **Jetson Nano Setting 준비물**
 
