@@ -83,11 +83,24 @@ sudo sh -c 'echo 128 > /sys/devices/pwm-fan/target_pwm'
 
     dli@dli-desktop:~$ ls /dev/vi*
 
+    dli@dli-desktop:~$ git clone http://github.com/jetsonhacks/USD-Camera.git
+    
+![IMG_0541](https://github.com/user-attachments/assets/358a80da-39e6-4e86-833d-72edac4119e5)
+***
+이렇게 뜰 것이다.
+그러면
 
+    dli@dli-desktop:~$ cd USB-Caamera
+    dli@dli-desktop:~/USB-Camra$ ls
+여기까지 한다면
+ - face-detect-usb.py LICENSE README.md usb-camera-gst.py usb-camera-simple.py
+이렇게 뜰것이다.
 
+       dli@dli-desktop:~/USB-Camera$ python3 usb-camera-gst.py
 
-
-
+![IMG_0542](https://github.com/user-attachments/assets/6a77eeb3-53b6-4da4-a65d-652ccdad2c14)
+***
+이런 화면이 나오게 된다.
 
 
 
